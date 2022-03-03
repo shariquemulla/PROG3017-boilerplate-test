@@ -22,7 +22,7 @@ function App() {
       </header>
 
       <section>
-        {/* Hey Seth! Try to add something here. @sethmaclean todo */}
+        {/* Hey Seth! Try to add something here. @sethmaclean todo #3 */}
       </section>
 
     </div>
