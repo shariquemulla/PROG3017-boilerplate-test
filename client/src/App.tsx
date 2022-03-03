@@ -20,6 +20,11 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <section>
+        {/* Hey Seth! Try to add something here. @sethmaclean todo */}
+      </section>
+
     </div>
   );
 }
